@@ -1,6 +1,6 @@
 # Food-Delivery-App
 
-<h1 align="left">React + Vite</h3>
+<h3 align="left">React + Vite</h3>
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
